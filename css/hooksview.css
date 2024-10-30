@@ -1,0 +1,23 @@
+table.hookstable{
+table-layout:fixed;
+width:100%;
+border-collapse:collapse;
+}
+table.hookstable th{
+word-wrap:break-word;
+border:1px solid #b9b9b9;
+background-color:#CACACA;
+padding:3px;
+}
+table.hookstable td{
+word-wrap:break-word;
+border:1px solid #b9b9b9;
+text-align:center;
+padding:3px;
+}
+table.hookstable tr:hover {
+background-color:#FFCC99;
+}
+table.hookstable td:hover {
+background-color:#CCFFFF;
+}
